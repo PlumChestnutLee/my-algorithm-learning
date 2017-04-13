@@ -1,0 +1,3 @@
+C:/Algorithm/SelectionSort/cmake-build-debug/CMakeFiles/SelectionSort.dir
+C:/Algorithm/SelectionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Algorithm/SelectionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
