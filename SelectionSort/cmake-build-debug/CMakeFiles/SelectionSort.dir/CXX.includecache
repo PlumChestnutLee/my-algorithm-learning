@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/James Li/Documents/GitHub/my-algorithm-learning/SelectionSort/SelectionSort.h
+iostream
+-
+
 C:/Users/James Li/Documents/GitHub/my-algorithm-learning/SelectionSort/SortTestHelper.h
 iostream
 -
@@ -19,4 +23,6 @@ iostream
 -
 SortTestHelper.h
 C:/Users/James Li/Documents/GitHub/my-algorithm-learning/SelectionSort/SortTestHelper.h
+SelectionSort.h
+C:/Users/James Li/Documents/GitHub/my-algorithm-learning/SelectionSort/SelectionSort.h
 
