@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/James Li/Documents/GitHub/my-algorithm-learning/SelectionSort/main.cpp" "C:/Users/James Li/Documents/GitHub/my-algorithm-learning/SelectionSort/cmake-build-debug/CMakeFiles/SelectionSort.dir/main.cpp.obj"
+  "E:/GitHub/my-algorithm-learning/SelectionSort/main.cpp" "E:/GitHub/my-algorithm-learning/SelectionSort/cmake-build-debug/CMakeFiles/SelectionSort.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

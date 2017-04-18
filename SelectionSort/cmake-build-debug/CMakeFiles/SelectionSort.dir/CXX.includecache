@@ -6,11 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/James Li/Documents/GitHub/my-algorithm-learning/SelectionSort/SelectionSort.h
+E:/GitHub/my-algorithm-learning/SelectionSort/BubbleSort.h
 iostream
 -
 
-C:/Users/James Li/Documents/GitHub/my-algorithm-learning/SelectionSort/SortTestHelper.h
+E:/GitHub/my-algorithm-learning/SelectionSort/InsertionSort.h
+iostream
+-
+
+E:/GitHub/my-algorithm-learning/SelectionSort/SelectionSort.h
+iostream
+-
+
+E:/GitHub/my-algorithm-learning/SelectionSort/SortTestHelper.h
 iostream
 -
 ctime
@@ -18,11 +26,15 @@ ctime
 cassert
 -
 
-C:/Users/James Li/Documents/GitHub/my-algorithm-learning/SelectionSort/main.cpp
+E:/GitHub/my-algorithm-learning/SelectionSort/main.cpp
 iostream
 -
 SortTestHelper.h
-C:/Users/James Li/Documents/GitHub/my-algorithm-learning/SelectionSort/SortTestHelper.h
+E:/GitHub/my-algorithm-learning/SelectionSort/SortTestHelper.h
 SelectionSort.h
-C:/Users/James Li/Documents/GitHub/my-algorithm-learning/SelectionSort/SelectionSort.h
+E:/GitHub/my-algorithm-learning/SelectionSort/SelectionSort.h
+InsertionSort.h
+E:/GitHub/my-algorithm-learning/SelectionSort/InsertionSort.h
+BubbleSort.h
+E:/GitHub/my-algorithm-learning/SelectionSort/BubbleSort.h
 
