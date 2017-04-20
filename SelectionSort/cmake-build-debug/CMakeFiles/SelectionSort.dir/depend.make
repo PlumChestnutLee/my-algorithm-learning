@@ -4,6 +4,7 @@
 CMakeFiles/SelectionSort.dir/main.cpp.obj: ../BubbleSort.h
 CMakeFiles/SelectionSort.dir/main.cpp.obj: ../InsertionSort.h
 CMakeFiles/SelectionSort.dir/main.cpp.obj: ../SelectionSort.h
+CMakeFiles/SelectionSort.dir/main.cpp.obj: ../ShellSort.h
 CMakeFiles/SelectionSort.dir/main.cpp.obj: ../SortTestHelper.h
 CMakeFiles/SelectionSort.dir/main.cpp.obj: ../main.cpp
 

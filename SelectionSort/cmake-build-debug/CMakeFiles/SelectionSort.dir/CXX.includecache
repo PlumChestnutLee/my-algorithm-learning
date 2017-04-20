@@ -18,6 +18,12 @@ E:/GitHub/my-algorithm-learning/SelectionSort/SelectionSort.h
 iostream
 -
 
+E:/GitHub/my-algorithm-learning/SelectionSort/ShellSort.h
+iostream
+-
+math.h
+-
+
 E:/GitHub/my-algorithm-learning/SelectionSort/SortTestHelper.h
 iostream
 -
@@ -37,4 +43,6 @@ InsertionSort.h
 E:/GitHub/my-algorithm-learning/SelectionSort/InsertionSort.h
 BubbleSort.h
 E:/GitHub/my-algorithm-learning/SelectionSort/BubbleSort.h
+ShellSort.h
+E:/GitHub/my-algorithm-learning/SelectionSort/ShellSort.h
 
